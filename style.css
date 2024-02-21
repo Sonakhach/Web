@@ -1,4 +1,4 @@
-/* @media (max-width: 767px) */
+
 @media screen and (max-width: 600px) {
 	.s{
 		font-size: 30px;
@@ -21,13 +21,23 @@
 	padding-bottom: 80px;
 	background-size: cover;
 }
+.i{
+	width: 30px;
+	height: 30px;
+	
+}
 .menu a{
 	color: white;
 	cursor: pointer;
 	
 }
+label{
+	padding: 10px;
+	margin: 10px;
+}
 .fr{
-	color: black!important;
+	color: white!important;
+	margin: 10px;
 }
 input{
 	cursor: pointer;
